@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+header {
+  height: 55px;
+  background-color: #222;
+}
+main {
+  min-height: 100vh;
+}
+footer {
+  min-height: 250px;
+  background-color: #222;
+}
